@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['button1',['$event']]]]]}}" bindtap="__e">选择文件保存</button></view>
