@@ -1,0 +1,9 @@
+
+button{
+	margin: 5px;
+}
+text{
+	color: coral;
+	font-size: 1.5em;
+}
+
