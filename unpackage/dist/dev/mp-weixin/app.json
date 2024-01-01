@@ -5,7 +5,8 @@
     "pages/index/test2/test2",
     "pages/index/test3/test3",
     "pages/index/test4/test4",
-    "pages/index/test5/test5"
+    "pages/index/test5/test5",
+    "pages/index/test6/test6"
   ],
   "subPackages": [],
   "window": {
@@ -22,11 +23,6 @@
         "iconPath": "static/logo.png"
       },
       {
-        "pagePath": "pages/index/test2/test2",
-        "text": "test2",
-        "iconPath": "static/logo.png"
-      },
-      {
         "pagePath": "pages/index/test3/test3",
         "text": "test3",
         "iconPath": "static/logo.png"
@@ -39,6 +35,11 @@
       {
         "pagePath": "pages/index/test5/test5",
         "text": "test5",
+        "iconPath": "static/logo.png"
+      },
+      {
+        "pagePath": "pages/index/test6/test6",
+        "text": "test6",
         "iconPath": "static/logo.png"
       }
     ]

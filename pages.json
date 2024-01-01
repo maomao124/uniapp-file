@@ -45,6 +45,14 @@
 				"navigationBarTitleText" : "",
 				"enablePullDownRefresh" : false
 			}
+		},
+		{
+			"path" : "pages/index/test6/test6",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	"tabBar": {
@@ -59,11 +67,11 @@
 			// 	"text": "test1",
 			// 	"iconPath": "static/logo.png"
 			// },
-			{
-				"pagePath": "pages/index/test2/test2",
-				"text": "test2",
-				"iconPath": "static/logo.png"
-			},
+			// {
+			// 	"pagePath": "pages/index/test2/test2",
+			// 	"text": "test2",
+			// 	"iconPath": "static/logo.png"
+			// },
 			{
 				"pagePath": "pages/index/test3/test3",
 				"text": "test3",
@@ -77,6 +85,11 @@
 			{
 				"pagePath": "pages/index/test5/test5",
 				"text": "test5",
+				"iconPath": "static/logo.png"
+			},
+			{
+				"pagePath": "pages/index/test6/test6",
+				"text": "test6",
 				"iconPath": "static/logo.png"
 			}
 		]
